@@ -1,0 +1,17 @@
+.carousel-inner img {
+    width: 100% !important;
+    height: 500px;
+
+    /* Center the image */
+}
+
+.btn-outline-purple {
+    color: #6f42c1;
+    border: 2px solid #6f42c1;
+    background-color: transparent;
+}
+
+.btn-outline-purple:hover {
+    background-color: #6f42c1;
+    color: white;
+}
